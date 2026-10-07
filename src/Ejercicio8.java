@@ -24,6 +24,7 @@ public class Ejercicio8 {
                 System.out.print(array[i][j] + " ");
             }
             System.out.println();
+            
 
 
         }
